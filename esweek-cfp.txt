@@ -1,0 +1,303 @@
+                         ==========================
+                         EMBEDDED SYSTEMS WEEK 2007
+                               www.esweek.org
+
+                               CALL FOR PAPERS
+
+                             C O D E S + I S S S
+                                 E M S O F T
+                                  C A S E S
+                         ==========================
+
+                       September 30 - October 5, 2007
+                Salzburg Congress Center, Salzburg, Austria
+                       www2.salzburg.info/congress.php
+
+                          C O D E S + I S S S 2007
+                      Fifth International Conference on
+               Hardware/Software Codesign and System Synthesis
+                             www.codes-isss.org
+
+                              E M S O F T 2007
+             Seventh International Conference on Embedded Software
+                               www.emsoft.org
+
+                               C A S E S 2007
+             International Conference on Compilers, Architecture
+                     and Synthesis for Embedded Systems
+                           www.casesconference.org
+
+          ==========================================================
+            DEADLINE FOR ABSTRACT SUBMISSION: Sunday, April 8, 2007
+          DEADLINE FOR FULL PAPER SUBMISSION: Sunday, April 15, 2007
+          All authors must register their paper title, abstract and
+           affiliation by April 8, 2007, in order to be allowed to
+                   submit a full paper by April 15, 2007.
+            Submissions for all 3 conferences will be done online
+                   on the ESWEEK web site (www.esweek.org).
+          ==========================================================
+
+The Embedded Systems Week (ESWEEK) 2007 is the premier scientific
+event in design and implementation of embedded systems hardware,
+software and tools.  ESWEEK brings together three major conferences in
+the embedded systems area, namely, CODES+ISSS, EMSOFT and CASES, as
+well as other guest conferences, associated workshops, and tutorials.
+ESWEEK is sponsored by the ACM and IEEE.
+
+One registration, three conferences: registered attendees to either
+CODES+ISSS, CASES, or EMSOFT will be allowed to attend sessions in the
+other conference as well for free! (Guest conferences and associated
+workshops may require separate registration.)
+
+The three conferences (CODES+ISSS, EMSOFT, CASES) have independent
+technical committees and technical programs, as well as separate paper
+submissions and review processes. Authors are encouraged to choose where
+they want to submit their papers based on the topic of the paper and
+suitability to each conference. PLEASE SEE BELOW for topic information
+for each conference!
+
+Proposals for special sessions and panels are also invited. These should
+be sent to the program chairs of each conference, and should succinctly
+outline the topic, positioning and likely participants.
+
+Guest Conferences
+=================
+
+                             F O R M A T S 2007
+                     Fifth International Conference on
+              Formal Modelling and Analysis of Timed Systems
+                     http://www.ulb.ac.be/di/formats07
+
+                                G P C E 2007
+                      Sixth International Conference on
+              Generative Programming and Component Engineering
+                                www.gpce.org
+
+Guest conferences are co-located with ESWEEK but have independent
+technical committees, programs, and deadlines, as well as separate
+paper submissions and review processes. PLEASE REFER to the respective
+guest conferences' websites for more information.
+
+Venue
+=====
+
+The Embedded Systems Week will take place in Salzburg, Austria, at
+Salzburg Congress Center, which is located in walking distance of the
+historic city center of Salzburg, see www2.salzburg.info/congress.php
+
+
+==============================================
+C O D E S + I S S S  2007 (www.codes-isss.org)
+==============================================
+
+CODES+ISSS is the annual International Conference on
+Hardware-Software Codesign and System Synthesis. The conference
+proudly continues the tradition of being a high-quality forum for
+active discussion on current and innovative topics. The program will
+bring together the latest in academic and industrial research and
+development. High-quality original papers will be accepted for oral
+presentation followed by interactive poster sessions. Selected papers
+from the conference proceedings will be targeted for journal
+publication.
+
+IMPORTANT DATES
+===============
+
+See top of this call.
+
+C O D E S + I S S S  Areas of Interest
+======================================
+(more details on the web site)
+
+The Conference invites papers on all aspects of the design and
+architecture of embedded computing systems, from application specific
+to heterogeneous systems, from custom to FPGA implementations, from
+handheld to high-performance systems.  Topics of interest include, but
+are not limited to:
+
+ 1) High-level, architectural and system-level synthesis
+ 2) Hardware-software co-design
+ 3) Specification languages and models
+ 4) Simulation and verification
+ 5) Power-aware design methodology
+ 6) Embedded systems architecture
+ 7) Multiprocessors and networks-on-chip
+ 8) Embedded software
+ 9) Application-specific design and algorithms
+10) Industrial practices and design case studies
+11) Emerging techniques
+
+Paper Submission
+================
+
+Papers should represent original work, not published or submitted for
+publication in other forums. Formal proceedings will be published
+in hardcopy, CD-ROM and web page forms (copyright by ACM and IEEE).
+A blind review process will be enforced, thus AUTHORS SHOULD NOT
+REVEAL AUTHORSHIP DIRECTLY OR INDIRECTLY THROUGH REFERENCES. Papers
+must be in PDF format and should not exceed 6 pages in ACM two-column
+format (9pt on 8.5"x11" letter size paper).  For formatting
+instructions and templates, visit
+www.acm.org/sigs/pubs/proceed/template.html.
+
+
+==================================
+E M S O F T  2007 (www.emsoft.org)
+==================================
+
+EMSOFT is the annual International Conference on Embedded Software.
+The purpose of the conference is to bring together researchers and
+developers from academia, industry, and government to advance the
+science, engineering, and technology in embedded software development.
+EMSOFT was started in 2001. The previous conferences were held in Lake
+Tahoe, USA (2001), Grenoble, France (2002), Philadelphia, USA (2003),
+Pisa, Italy (2004), Jersey City, USA (2005), and Seoul, South Korea
+(2006).
+
+IMPORTANT DATES
+===============
+
+See top of this call.
+
+E M S O F T  Areas of Interest
+==============================
+(more details on the web site)
+
+Embedded software must meet demanding criteria for correctness,
+performance, resource consumption, and development cost. EMSOFT aims at
+covering all aspects of embedded software with focus on principles of
+embedded software development.  Topics of interest include, but are
+not limited to:
+
+ 1) Design and implementation of embedded software
+ 2) Modeling and validation
+ 3) Model- and component-based software design and analysis
+ 4) Programming languages and compilers
+ 5) Software engineering and programming methodologies
+ 6) Scheduling and execution time analysis
+ 7) Operating systems and middleware
+ 8) QoS management and performance analysis
+ 9) Hardware-dependent software and interfaces
+10) Networked embedded systems and security
+11) Software for distributed/multiprocessor embedded systems
+12) Application areas, e.g. automotive, avionics,
+    telecommunication, and multimedia
+
+Paper Submission
+================
+
+Submitted papers should present original research that is unpublished
+and not submitted elsewhere. Papers should be no more than 15 pages in
+LNCS format, or 10 pages 2-column in ACM format, prepared in electronic
+format according to the instructions on the submission page, which shall
+be open in March 2007.
+
+
+=========================================
+C A S E S  2007 (www.casesconference.org)
+=========================================
+
+The CASES conference provides a forum for emerging technology in
+embedded computing systems, with an emphasis on compilers and
+architectures for embedded systems. CASES is a common forum for
+researchers with an interest in embedded systems to reach across
+vertically integrated communities and to promote synergies. As evident
+from the past CASES meetings, several emerging applications are
+critically dependent on these interactions for their sustained growth
+and evolution.
+
+IMPORTANT DATES
+===============
+
+See top of this call.
+
+C A S E S  Areas of Interest
+============================
+(more details on the web site)
+
+Previously unpublished papers containing significant novel ideas and
+technical results are solicited. Conference topics include, but are
+not limited to, the following areas.
+
+ 1) Application-specific and domain-specific embedded systems
+ 2) Compilation techniques that focus on embedded architectures
+ 3) Dynamic compilation and managed runtime environments for
+    embedded systems
+ 4) Design, specification, and synthesis of embedded systems
+ 5) Customizable processors and digital signal processors
+ 6) Embedded uses of instruction-level parallelism, including VLIW, EPIC
+    and superscalar
+ 7) Embedded system integration and testing
+ 8) Multiprocessing on chip (hardware and software issues)
+ 9) Memory management, smart caches and compiler controlled memories
+10) Novel architectures and micro-architectures for embedded systems
+11) Low-power architectures and compilation, power vs. performance
+    tradeoffs
+12) Profiling, measurement, and analysis techniques of
+    embedded applications
+13) Reconfigurable embedded computing systems
+14) Validation, verification, and debugging techniques for embedded
+    software
+15) VLSI and circuit techniques for embedded system design
+
+Paper Submission
+================
+
+Papers should be submitted electronically in PDF format. Submissions
+should be no more than 6000 words and 22 double-spaced, single-column
+pages, with 1 inch margins and 11 pt font or larger. Include a 200 word
+single spaced abstract in the first page of the paper. Please make sure
+your paper prints satisfactorily on the 8.5"x11" format, this is
+especially important for countries where A4 paper is standard. Authors
+may choose whether they would like to expose their identity to the
+reviewers, in which case authors' affiliations should also be included
+on the first page.  Submissions not adhering to these guidelines may
+be outright rejected at the discretion of the program chairs.
+
+Contacts
+========
+
+For any questions about paper submission and the conferences please
+contact the program chair or general chairs for the respective
+conference.
+
+C O D E S + I S S S:
+
+General Co-Chairs
+   Soonhoi Ha (sha@iris.snu.ac.kr)
+   Seoul National University, Korea
+
+   Kiyoung Choi (kchoi@poppy.snu.ac.kr)
+   Seoul National University, Korea
+
+Program Co-Chairs
+   Nikil Dutt (dutt@ics.uci.edu)
+   University of California, Irvine, USA
+
+   Juergen Teich (teich@cs.fau.de)
+   University of Erlangen-Nuremberg, Germany
+
+E M S O F T:
+
+Program Co-Chairs
+   Christoph Kirsch (ck@cs.uni-salzburg.at)
+   University of Salzburg, Austria
+
+   Reinhard Wilhelm (wilhelm@cs.uni-sb.de)
+   Saarland University, Germany
+
+C A S E S:
+
+General Co-chairs
+   Taewhan Kim (tkim@ssl.snu.ac.kr)
+   Seoul National University, South Korea
+
+   Pascal Sainrat (sainrat@irit.fr)
+   IRIT, Toulouse University, France
+
+Program Co-Chairs
+   Nacho Navarro (nacho@ac.upc.edu)
+   Universitat Politecnica de Catalunya, Spain
+
+   Steven S. Lumetta (lumetta@uiuc.edu)
+   University of Illinois at Urbana-Champaign, USA
